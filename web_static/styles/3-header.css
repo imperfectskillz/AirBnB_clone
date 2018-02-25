@@ -1,0 +1,12 @@
+header {
+    color: white;
+    height: 70px;
+    width: 100%;
+    border-bottom: 1px solid #CCCCCC;
+}
+
+.ABLOGO {
+    margin: 0px 0px 0px 20px;
+    background: url("../images/logo.png") no-repeat;
+    height: 100%;
+}
