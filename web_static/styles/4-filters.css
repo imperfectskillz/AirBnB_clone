@@ -17,6 +17,8 @@ button {
     top: 35px;
     bottom: 35px;
     margin-right: 30px;
+    top: 50%;
+    bottom: 50%;
 }
 
 button:hover {
